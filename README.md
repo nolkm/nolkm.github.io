@@ -43,5 +43,7 @@ As a dedicated Cybersecurity student at Sheridan College, I am gearing up for an
 ### Centre for Applied AI 
 Student Researcher Internship                                                                    01/2024 - Present|Oakville,Canada
 • ​​​​​​​Centre for Applied AI (formerly known as the Centre for Mobile Innovation)
+
 • collaborated with fellow student on research project called: "Clinic of the Future" in partnership with Cloud DX
+
 • Did Research on Computer Vision with  machine Learning algorithms to implement pose estimation for the tracking of body movements and preform body tracking. Also collaborated on face tracking with machine learning with openface package in python to conduct research on being able to tell when someone is in pain based off of there facial expression.
