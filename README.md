@@ -47,3 +47,11 @@ Student Researcher Internship                                                   
 • collaborated with fellow student on research project called: "Clinic of the Future" in partnership with Cloud DX
 
 • Did Research on Computer Vision with  machine Learning algorithms to implement pose estimation for the tracking of body movements and preform body tracking. Also collaborated on face tracking with machine learning with openface package in python to conduct research on being able to tell when someone is in pain based off of there facial expression.
+
+
+### CTF Developer 2024 || Club Executive (Volunteering 2022 ~ Present)
+ISSessions Club with over 1000 members 
+
+• As a CTF Developer and Club Executive in 2024, I had the unique opportunity to craft diverse CTF challenges alongside a talented team for a competition backed by sponsors like Bell, KPMG, Trend Micro, Air Canada  and more.
+
+• Designed and developed Cryptography, Programming, and reverse engineering challenges.
